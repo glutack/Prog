@@ -2,7 +2,9 @@ Projects done for my Programming subject
 
 ### [Proyecto 1 - Introducción a la programación](https://github.com/glutack/Prog/tree/master/1.%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n)
 **Ejercicio01:** Performs three arithmetic calculations with user-provided numbers and prints the results.
+
 **Ejercicio02:** Demonstrates variable and constant declarations, type casting (implicit and explicit), and basic arithmetic and assignment operations in Java.
+
 **Ejercicio03:** Validates a password by checking its length, whether it starts with a vowel, ends with a consonant, and contains at least one special character.
 
 ### [Proyecto 2 - Uso de estructuras de control de flujo](https://github.com/glutack/Prog/tree/master/2.%20Uso%20de%20estructuras%20de%20control%20de%20flujo)
@@ -13,6 +15,7 @@ Creates instances of classes Aeronave and Aeropuerto and simulates aircraft oper
 
 ### [Proyecto 4 - Utilizando cadenas de caracteres y arrays](https://github.com/glutack/Prog/tree/master/3.%20Trabajando%20con%20clases%2C%20objetos%20y%20m%C3%A9todos)
 **Ejercicio01:** Compresses a string by replacing consecutive repeated letters with the letter followed by its count (e.g., aaabb → a3b2) and prints the compressed version if shorter than the original.
+
 **Ejercicio02:** Reads a square matrix from user input, validates its elements, rotates it 90 degrees to the right, and prints both the original and rotated matrix.
 <details><summary>Tech used:</summary>
 	
