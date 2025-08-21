@@ -1,0 +1,76 @@
+.root {
+    -fx-background-color: white;
+    -fx-padding: 10px;
+    -fx-font-family: monospace;
+    -fx-font-weight: 600;
+    -fx-font-size: 16px;
+}
+
+.text-field {
+    -fx-pref-height: 70px;
+    -fx-font-size: 20px;
+    -fx-background-color: #FCEEBE;
+
+}
+
+.button {
+    -fx-font-size: 20px;
+    -fx-pref-width: 60px;
+    -fx-pref-height: 60px;
+    -fx-background-color: #F7E7ED;
+}
+
+.button:hover {
+    -fx-background-color: #FCEEBE;
+    -fx-font-weight: 800;
+}
+
+.button:pressed {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
+
+/* Estilos específicos para operadores */
+.button.operador {
+    -fx-background-color: #F4CED6;
+}
+
+.button.operador:hover {
+    -fx-background-color: #FCEEBE;
+}
+
+.button.operador:pressed {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
+
+/* Estilos específicos para el botón de igual */
+.button.igual {
+    -fx-text-fill: white;
+    -fx-background-color: #A183D4;
+    -fx-border-radius: 50%;
+    -fx-background-radius: 50%;
+}
+
+.button.igual:hover {
+    -fx-background-color: #FCEEBE;
+}
+
+.button.igual:pressed {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
+
+/* Estilos específicos para el botón de limpiar */
+.button.limpiar {
+    -fx-background-color: #CCBEE9;
+}
+
+.button.limpiar:hover {
+    -fx-background-color: #FCEEBE;
+}
+
+.button.limpiar:pressed {
+    /*Añade las propiedades que consideres necesarias
+     y modifica sus valores para cambiar el aspecto*/
+}
