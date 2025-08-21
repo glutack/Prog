@@ -108,7 +108,7 @@ Simulates a very basic academic management system.
 Reads/writes a book library in a text file.
 <details><summary>Tech used:</summary>
 	
-[**```Java IO```**, **```File```**, **```BufferedReader```** / **```BufferedWriter```**, **```Serializable```**](###Proyecto 8 - Estructuras de datos externas (ficheros))
+**```Java IO```**, **```File```**, **```BufferedReader```** / **```BufferedWriter```**, **```Serializable```**
 
 **XStream** → Library. Allows to serialize objects to XML format and vice versa.
 </details>
