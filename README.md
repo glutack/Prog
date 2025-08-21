@@ -1,14 +1,14 @@
 Projects done for my Programming subject
 
-### [Proyecto 1 - Introducción a la programación] ()
-**Ejercicio01:**Performs three arithmetic calculations with user-provided numbers and prints the results.
-**Ejercicio02:**Demonstrates variable and constant declarations, type casting (implicit and explicit), and basic arithmetic and assignment operations in Java.
+### [Proyecto 1 - Introducción a la programación](https://github.com/glutack/Prog/tree/master/1.%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n)
+**Ejercicio01:** Performs three arithmetic calculations with user-provided numbers and prints the results.
+**Ejercicio02:** Demonstrates variable and constant declarations, type casting (implicit and explicit), and basic arithmetic and assignment operations in Java.
 **Ejercicio03:** Validates a password by checking its length, whether it starts with a vowel, ends with a consonant, and contains at least one special character.
 
-### [Proyecto 2 - Uso de estructuras de control de flujo] ()
+### [Proyecto 2 - Uso de estructuras de control de flujo](https://github.com/glutack/Prog/tree/master/2.%20Uso%20de%20estructuras%20de%20control%20de%20flujo)
 Calculates employee salaries based on years of service, provides annual and monthly salary calculations for new employees, and interacts with the user through a menu-driven console interface.
 
-### [Proyecto 3 - Utilizando cadenas de caracteres y arrays] ()
+### [Proyecto 3 - Utilizando cadenas de caracteres y arrays](https://github.com/glutack/Prog/tree/master/3.%20Trabajando%20con%20clases%2C%20objetos%20y%20m%C3%A9todos)
 Creates instances of classes Aeronave and Aeropuerto and simulates aircraft operations, including takeoffs, landings, and status updates at different airports.
 
 ### [Proyecto 4 - Utilizando cadenas de caracteres y arrays] ()
