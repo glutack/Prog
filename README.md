@@ -24,11 +24,11 @@ Creates instances of classes Aeronave and Aeropuerto and simulates aircraft oper
 
 **String methods:**
 
-	**```trim()```** → Removes spaces around values.
+→ **```trim()```** → Removes spaces around values.
  
-	**```split(",")```** → Splits the user’s input into array elements.
+→ **```split(",")```** → Splits the user’s input into array elements.
 
-	**```matches(regex)```** → Validates each input element.
+→ **```matches(regex)```** → Validates each input element.
  
 **Control structures** → for, while, if used for looping and conditions.
 </details>
@@ -42,23 +42,23 @@ Implementation of a class hierarchy based on boat types.
 	
 **Class** → Blueprint. Defines the structure and behavior (fields and methods) of objects. It acts as a template from which objects (instances) are created.
 	
- 	**Abstract Class** → Partial blueprint. A class that cannot be instantiated directly and may contain abstract methods (without body) as well as regular methods. It is used when classes share common behavior but still need specialization.
+ → **Abstract Class** → Partial blueprint. A class that cannot be instantiated directly and may contain abstract methods (without body) as well as regular methods. It is used when classes share common behavior but still need specialization.
 
 **Object** → Instance. A concrete entity created from a class, holding its own state (fields/attributes) and capable of invoking its methods.
 
 **Constructor** → Special method. A block of code that initializes a new object when it is created. It has the same name as the class and does not have a return type.
 
- 	**Default constructor** → Provided by the compiler if no constructor is defined.
+ → **Default constructor** → Provided by the compiler if no constructor is defined.
 	
- 	**Parameterized constructor** → Allows setting initial values when creating an object.
+ → **Parameterized constructor** → Allows setting initial values when creating an object.
 
 **Method** → Function inside a class. Defines a behavior that an object can perform. Can return a value or be void.
 
- 	**Instance methods** → Operate on the object’s state (fields).
+ → **Instance methods** → Operate on the object’s state (fields).
 	
- 	**Static methods** → Belong to the class itself, can be called without creating an object.
+ → **Static methods** → Belong to the class itself, can be called without creating an object.
 	
- 	**Overriding → Redefining a method in a subclass with the same signature.**
+ → **Overriding → Redefining a method in a subclass with the same signature.**
 
 **Attribute** → Variable inside a class. Represents the state or properties of an object.
 
@@ -95,11 +95,11 @@ Simulates a very basic academic management system.
 
 **```Java IO```** → Package. Provides for system input and output through data streams, serialization and the file system.
 
- 	**```File```** → Class. Contains several methods for working with the pathname, deleting and renaming files, creating new directories...
+ → **```File```** → Class. Contains several methods for working with the pathname, deleting and renaming files, creating new directories...
 	
- 	**```BufferedReader / BufferedWriter```** → Class. Reads and writes text efficiently in files, using buffers to improve performance.
+ → **```BufferedReader / BufferedWriter```** → Class. Reads and writes text efficiently in files, using buffers to improve performance.
 	
- 	**```Serializable```** → Interfaz. Allows to turn objects into a byte sequence for storage in binary files and later retrieval.
+ → **```Serializable```** → Interfaz. Allows to turn objects into a byte sequence for storage in binary files and later retrieval.
 
 **XStream** → Library. Allows to serialize objects to XML format and vice versa.
 </details>
@@ -121,7 +121,7 @@ Creates a calculator application with a graphical user interface.
 
 **JavaFX** → client application platform for desktop, mobile and embedded systems built on Java.
 
-	**JavaFX FXML** → XML format that enables you to compose JavaFX GUIs in a fashion similar to how you compose web GUIs in HTML.
+→ **JavaFX FXML** → XML format that enables you to compose JavaFX GUIs in a fashion similar to how you compose web GUIs in HTML.
 </details>
 
 ### [Proyecto 10 - Gestión de bases de datos relacionales y orientadas a objetos](https://github.com/glutack/Prog/tree/master/10.%20Gesti%C3%B3n%20de%20bases%20de%20datos%20relacionales%20y%20orientadas%20a%20objetos)
