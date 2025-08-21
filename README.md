@@ -11,10 +11,11 @@ Calculates employee salaries based on years of service, provides annual and mont
 ### [Proyecto 3 - Utilizando cadenas de caracteres y arrays](https://github.com/glutack/Prog/tree/master/3.%20Trabajando%20con%20clases%2C%20objetos%20y%20m%C3%A9todos)
 Creates instances of classes Aeronave and Aeropuerto and simulates aircraft operations, including takeoffs, landings, and status updates at different airports.
 
-### [Proyecto 4 - Utilizando cadenas de caracteres y arrays] (https://github.com/glutack/Prog/tree/master/3.%20Trabajando%20con%20clases%2C%20objetos%20y%20m%C3%A9todos)
+### [Proyecto 4 - Utilizando cadenas de caracteres y arrays](https://github.com/glutack/Prog/tree/master/3.%20Trabajando%20con%20clases%2C%20objetos%20y%20m%C3%A9todos)
 **Ejercicio01:** Compresses a string by replacing consecutive repeated letters with the letter followed by its count (e.g., aaabb → a3b2) and prints the compressed version if shorter than the original.
 **Ejercicio02:** Reads a square matrix from user input, validates its elements, rotates it 90 degrees to the right, and prints both the original and rotated matrix.
 <details><summary>Tech used:</summary>
+	
 **Scanner** (```java.util.Scanner```) → Class. Reads user input from the console.
 **Arrays** → Core feature. Used to represent 2D matrices (String[][] matriz).
 **Regular Expressions** (regex) → Validates that input only contains numbers/letters.
@@ -31,6 +32,7 @@ Object modeling with attributes and methods, encapsulation, data validation thro
 ### [Proyecto 6 - Advanced use of classes](https://github.com/glutack/Prog/tree/master/6.%20Utilizaci%C3%B3n%20avanzada%20de%20clases)
 Implementation of a class hierarchy based on boat types.
 <details><summary>Java's core OOP:</summary>
+	
 **Class** → Blueprint. Defines the structure and behavior (fields and methods) of objects. It acts as a template from which objects (instances) are created.
 	**Abstract Class** → Partial blueprint. A class that cannot be instantiated directly and may contain abstract methods (without body) as well as regular methods. It is used when classes share common behavior but still need specialization.
 **Object** → Instance. A concrete entity created from a class, holding its own state (fields/attributes) and capable of invoking its methods.
@@ -52,6 +54,7 @@ Implementation of a class hierarchy based on boat types.
 ### [Proyecto 7 - Manejos de estructuras de datos internas](https://github.com/glutack/Prog/tree/master/7.%20Manejos%20de%20estructuras%20de%20datos%20internas)
 Simulates a very basic academic management system.
 <details><summary>Tech used:</summary>
+	
 **Java Collections Framework** → Package. A set of interfaces and classes for storing and manipulating groups of objects such as lists, sets, and maps.
 **```List```** → Interface. Represents an ordered collection that can contain duplicate elements.
 **```ArrayList```** → Class. A List implementation backed by a dynamic array, allowing fast random access by index.
@@ -70,6 +73,7 @@ Simulates a very basic academic management system.
 ### [Proyecto 8 - Estructuras de datos externas (ficheros)](https://github.com/glutack/Prog/tree/master/8.%20Estructuras%20de%20datos%20externas%20(ficheros))
 Reads/writes a book library in a text file.
 <details><summary>Tech used:</summary>
+	
 [**```Java IO```**, **```File```**, **```BufferedReader```** / **```BufferedWriter```**, **```Serializable```**](#Proyecto 8 - Estructuras de datos externas (ficheros))
 **XStream** → Library. Allows to serialize objects to XML format and vice versa.
 </details>
@@ -77,14 +81,16 @@ Reads/writes a book library in a text file.
 ### [Proyecto 9 - Interfaces gráficas de usuario](https://github.com/glutack/Prog/tree/master/9.%20Interfaces%20gr%C3%A1ficas%20de%20usuario)
 Creates a calculator application with a graphical user interface.
 <details><summary>Tech used:</summary>
+	
 **Swing** → Java library for building GUI. It provides components like windows, buttons, and text fields, allowing to create interactive desktop applications.
 **JavaFX** → client application platform for desktop, mobile and embedded systems built on Java.
     **JavaFX FXML** → XML format that enables you to compose JavaFX GUIs in a fashion similar to how you compose web GUIs in HTML.
 </details>
 
-### [Proyecto 10 - Gestión de bases de datos relacionales y orientadas a objetos] (https://github.com/glutack/Prog/tree/master/10.%20Gesti%C3%B3n%20de%20bases%20de%20datos%20relacionales%20y%20orientadas%20a%20objetos)
+### [Proyecto 10 - Gestión de bases de datos relacionales y orientadas a objetos](https://github.com/glutack/Prog/tree/master/10.%20Gesti%C3%B3n%20de%20bases%20de%20datos%20relacionales%20y%20orientadas%20a%20objetos)
 Manages a supermarket using a H2 database.
 <details><summary>Tech used:</summary>
+	
 **JDBC** (Java Database Connectivity) → API Java. It allows Java apps to connect and communicate to relational databases. It provides a setof classes and interfaces that allow you to execute sQL statements, manipulate data and manage information in different databases from your Java applications.
 **JPA** (Java Persistance API)→ API Java. It dacilitates the mangement of data persistence and object-relational mapping in Java applications. It allows you to work with JAva objects as if they were persitent data, without having to write SWQL code directly to interact with relational databases.
 **H2** → Relational database management system written in Java. It can be used as an embedded database in Java applications or run in client-server mode. It is open source and offers high speed and a small file size, making it suitable for development and testing.
